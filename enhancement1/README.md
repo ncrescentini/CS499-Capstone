@@ -42,7 +42,7 @@ During assignment one, I identified that this enhancement would best align with 
 
 ---
 
-## 🔁 Reflection on the Process  
+## Reflection on the Process  
 **What did you learn? What challenges did you face?**
 
 This was a wonderful experience with many lessons learned. An important takeaway was the realization that what you may envision as a relatively self-contained change may need a much larger refactoring and organization of the codebase.
