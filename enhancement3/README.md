@@ -5,12 +5,12 @@
 ## Artifact Overview  
 **What is it? When was it created?**
 
-This artifact is the final project I submitted for IT-140 in August 2023, and this enhancement is the third and final update to the program for my capstone. The program is a text-based adventure written in Python where the player explores a castle to collect items that will help you defeat the dragon hiding somewhere within. While this program is relatively simple, it has useful features such as navigation, an inventory system, win/lose conditions, and more.
+This enhancement is the third and final update to the program for my capstone. The program is a text-based adventure written in Python where the player explores a castle to collect items that will help you defeat the dragon hiding somewhere within. While this program is relatively simple, it has useful features such as navigation, an inventory system, win/lose conditions, and more.
 
 ---
 
 ## Why This Artifact?  
-**Why did you select this item? What specific components showcase your skills and how was it improved?**
+***Why did you select this item? What specific components showcase your skills and how was it improved?***
 
 This artifact was chosen to demonstrate the skills I’ve learned in databases. Instead of enhancing a project with an existing database, I wanted to implement a brand new one in my first ever program. I want this artifact to demonstrate my ability to implement a novel solution into existing code, that has a solid core and will easily scale with future updates. It also demonstrates my ability to create an efficient database schema.
 
