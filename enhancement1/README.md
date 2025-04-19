@@ -1,5 +1,4 @@
-# Enhancement One – Software Design and Engineering
-# Narrative
+# Enhancement One Narrative – Software Design and Engineering
 
 ---
 
