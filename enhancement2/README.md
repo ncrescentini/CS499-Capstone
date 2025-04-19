@@ -4,7 +4,7 @@
 
 ## Artifact Overview
 
-### What is it? When was it created?
+***What is it? When was it created?***
 
 This artifact is the final project I submitted for IT-140 in August 2023. The program is a text-based adventure written in Python where the player explores a castle to collect items that will help you defeat the dragon hiding somewhere within. While this program is relatively simple, it has useful features such as navigation, an inventory system, win/lose conditions, and more.
 
@@ -12,7 +12,7 @@ This artifact is the final project I submitted for IT-140 in August 2023. The pr
 
 ## Why This Artifact?
 
-### Why did you select this item? What specific components showcase your skills and how was it improved?
+***Why did you select this item? What specific components showcase your skills and how was it improved?***
 
 The main enhancement was the replacement of the existing item detection logic, which used a long chain of `if/elif` statements to determine if an item is in the current room. While this system is functional, it is inefficient, difficult to maintain, and difficult to scale. Adding new rooms would require multiple updates to the logic, and moving multiple items to different rooms would require a significant effort.
 
@@ -29,7 +29,7 @@ This artifact demonstrates the improvements I’ve made in writing efficient and
 
 ## Outcome Reflection
 
-### Did you meet the course outcomes you planned to meet with this enhancement in Module One? Any updates?
+***Did you meet the course outcomes you planned to meet with this enhancement in Module One? Any updates?***
 
 Outcomes **3**, **4**, and **5** were what I had originally planned, and I believe I met that goal.
 
@@ -41,7 +41,7 @@ Outcomes **3**, **4**, and **5** were what I had originally planned, and I belie
 
 ## Enhancement Process Reflection
 
-### What did you learn? What challenges did you face?
+***What did you learn? What challenges did you face?***
 
 As I worked through this enhancement, I was reminded of my very first SNHU class and the hours spent trying to get this program to work. I’ll never forget lying in bed and suddenly having an “aha!” moment, when a solution for my inventory problem popped into my head. It was a moment in my learning journey that gave me such a sense of accomplishment and one that I will not soon forget. Now, in my final term, that same code block that I once thought was so clever immediately stood out as needing to be refactored.
 
