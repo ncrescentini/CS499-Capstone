@@ -3,14 +3,14 @@
 ---
 
 ## Artifact Overview  
-**What is it? When was it created?**
+***What is it? When was it created?***
 
 This artifact is the final project I submitted for IT-140 in August 2023. The program is a text-based adventure written in Python where the player explores a castle to collect items that will help you defeat the dragon hiding somewhere within. While this program is relatively simple, it has useful features such as navigation, an inventory system, win/lose conditions, and more.
 
 ---
 
 ## Why This Artifact?  
-**Why did you select this item? What specific components showcase your skills and how was it improved?**
+***Why did you select this item? What specific components showcase your skills and how was it improved?***
 
 This was the first full program I ever created, and I selected it for all three capstone enhancements to showcase how my skills have grown since entering the computer science program. Using this project gives me the opportunity to revisit my work from my first term and explore how I would do things differently in my final term with the knowledge I’ve acquired throughout the program.
 
@@ -31,7 +31,7 @@ I also made some minor enhancements and code changes as a bit of house cleaning 
 ---
 
 ## Alignment to Course Outcomes  
-**Did you meet the course outcomes you planned?**
+***Did you meet the course outcomes you planned?***
 
 During assignment one, I identified that this enhancement would best align with **Course Outcomes 2, 3, and 4**, and I think that remains true.
 
@@ -43,7 +43,7 @@ During assignment one, I identified that this enhancement would best align with 
 ---
 
 ## Reflection on the Process  
-**What did you learn? What challenges did you face?**
+***What did you learn? What challenges did you face?***
 
 This was a wonderful experience with many lessons learned. An important takeaway was the realization that what you may envision as a relatively self-contained change may need a much larger refactoring and organization of the codebase.
 
