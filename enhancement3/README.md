@@ -3,7 +3,7 @@
 ---
 
 ## Artifact Overview  
-**What is it? When was it created?**
+***What is it? When was it created?***
 
 This enhancement is the third and final update to the program for my capstone. The program is a text-based adventure written in Python where the player explores a castle to collect items that will help you defeat the dragon hiding somewhere within. While this program is relatively simple, it has useful features such as navigation, an inventory system, win/lose conditions, and more.
 
@@ -21,14 +21,14 @@ For the purposes of this enhancement and program, the database I’m adding will
 ---
 
 ## Alignment to Course Outcomes  
-**Did you meet the course outcomes you planned?**
+***Did you meet the course outcomes you planned?***
 
 I planned to meet **Course Outcomes 3 and 4** with this enhancement, which I believe I achieved.
 
 ---
 
 ## Reflection on the Process  
-**What did you learn? What challenges did you face?**
+***What did you learn? What challenges did you face?***
 
 I think with this artifact I learned how much I enjoy modifying and enhancing existing code. It was really gratifying to add a database and successfully implement a significant enhancement like the ability to save and load your game.
 
