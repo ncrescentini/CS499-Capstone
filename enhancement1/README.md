@@ -14,14 +14,14 @@ This artifact is the final project I submitted for IT-140 in August 2023. The pr
 
 This was the first full program I ever created, and I selected it for all three capstone enhancements to showcase how my skills have grown since entering the computer science program. Using this project gives me the opportunity to revisit my work from my first term and explore how I would do things differently in my final term with the knowledge I’ve acquired throughout the program.
 
-The focus of this milestone is **software design and engineering**. For my first enhancement, I chose to implement a **start menu** that would separate menu and gameplay functionality while improving the user experience and laying the groundwork for future feature expansion.  
+The focus of this milestone is **software design and engineering**. For my first enhancement, I chose to implement a **start menu** that would separate menu and gameplay functionality while improving the user experience and laying the groundwork for future feature expansion. Major enhancements include:
 
 
-> This start menu code now includes the `show_instructions()` method that previously was included in the main gameplay loop.  
-> This menu supports a larger refactoring effort to increase modularity by separating gameplay, menu, and program logic.  
-> To further this effort, I implemented a new `run_game()` method that will handle only the gameplay.  
-> Gameplay logic was previously built into `main()`, which does not follow best practices.  
-> The new `main()` function is now much cleaner and modular, calling the menu and `run_game()` methods when applicable and also laying the groundwork for the load game/database enhancement that will be included in enhancement 3.
+- This start menu code now includes the `show_instructions()` method that previously was included in the main gameplay loop.  
+- This menu supports a larger refactoring effort to increase modularity by separating gameplay, menu, and program logic.  
+- To further this effort, I implemented a new `run_game()` method that will handle only the gameplay.  
+- Gameplay logic was previously built into `main()`, which does not follow best practices.  
+- The new `main()` function is now much cleaner and modular, calling the menu and `run_game()` methods when applicable and also laying the groundwork for the load game/database enhancement that will be included in enhancement 3.
 
 I also made some minor enhancements and code changes as a bit of house cleaning separate from the main enhancement. These include:
 
