@@ -1,2 +1,2 @@
 # CS499-Capstone
-Artifact, Enhancements, and Narratives for SNHU CS499 Capstone Project
+Initial codebase, Enhancement codebases, professional self-assessment, and Narratives for SNHU CS499 Capstone Project
